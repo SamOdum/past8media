@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Github Source
-image: img/callum-shaw-555357-unsplash.jpg
+title: How to make money off social media
+image: img/smartphone-2123520_1920.jpg
 author: Youwai
 date: 2019-03-10T10:00:00.000Z
 tags:
