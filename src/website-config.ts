@@ -49,14 +49,14 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
+  title: 'Past8 Media',
   description: 'Your professional e-money guide',
   coverImage: 'img/blog-cover2.jpg',
   logo: 'img/past8-logo.png',
   lang: 'en',
   siteUrl: 'https://past8media.com',
-  facebook: 'https://www.facebook.com/ghost',
-  twitter: 'https://twitter.com/tryghost',
+  facebook: 'https://www.facebook.com/Past8-Media-1254206468072878/?ref=bookmarks',
+  twitter: 'https://twitter.com/Past8Media',
   showSubscribe: true,
   mailchimpAction:
     'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
