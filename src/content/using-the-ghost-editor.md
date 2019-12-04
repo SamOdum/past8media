@@ -1,7 +1,11 @@
 ---
 layout: post
 title: "Using The Ghost Editor"
+<<<<<<< HEAD
 author: Youwai
+=======
+author: Ghost
+>>>>>>> c9a5e6caad1deaea95cc725acaa64597be933f8d
 tags: ["Getting Started"]
 image: img/writing.jpg
 date: "2015-02-02T23:46:37.121Z"
@@ -72,4 +76,8 @@ If you're writing a piece in parts and you just feel like you need to divide a c
 
 ---
 
+<<<<<<< HEAD
 This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the [Advanced Markdown Guide](/advanced-markdown/) - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of [how to use Ghost tags](/using-tags/).
+=======
+This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the [Advanced Markdown Guide](/advanced-markdown/) - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of [how to use Ghost tags](/using-tags/).
+>>>>>>> c9a5e6caad1deaea95cc725acaa64597be933f8d

@@ -1,5 +1,6 @@
 ---
 layout: post
+<<<<<<< HEAD
 title: 'The Purpose of Education'
 author: Youwai
 tags: ['Speeches']
@@ -8,6 +9,17 @@ date: '2012-08-20T15:11:55.000Z'
 draft: false
 ---
 
+=======
+title: "The Purpose of Education"
+author: Ghost
+tags: ["Speeches"]
+image: img/demo4.jpg
+date: "2012-08-20T15:11:55.000Z"
+draft: false
+---
+
+
+>>>>>>> c9a5e6caad1deaea95cc725acaa64597be933f8d
 As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
 
 It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
@@ -20,4 +32,8 @@ The late Eugene Talmadge, in my opinion, possessed one of the better minds of Ge
 
 We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
 
+<<<<<<< HEAD
 If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, "brethren!" Be careful, teachers!
+=======
+If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, "brethren!" Be careful, teachers!
+>>>>>>> c9a5e6caad1deaea95cc725acaa64597be933f8d

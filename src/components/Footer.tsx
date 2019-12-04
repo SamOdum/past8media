@@ -89,7 +89,6 @@ const Footer: React.FC = () => {
               Twitter
             </a>
           )}
-
           {/* <a href="https://ghost.org" target="_blank" rel="noopener noreferrer">
             Ghost
           </a> */}

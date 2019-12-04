@@ -1,7 +1,11 @@
 ---
 layout: post
 title: "Welcome to Ghost"
+<<<<<<< HEAD
 author: Youwai
+=======
+author: Ghost
+>>>>>>> c9a5e6caad1deaea95cc725acaa64597be933f8d
 tags: ["Getting Started"]
 image: img/welcome-to-ghost.jpg
 date: "2018-05-06T23:46:37.121Z"

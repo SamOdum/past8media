@@ -16,7 +16,11 @@ import {
   outer,
   PostFeed,
   PostFeedRaise,
+<<<<<<< HEAD
   // SiteDescription,
+=======
+  SiteDescription,
+>>>>>>> c9a5e6caad1deaea95cc725acaa64597be933f8d
   SiteHeader,
   SiteHeaderContent,
   SiteMain,
@@ -110,9 +114,13 @@ const IndexPage: React.FC<IndexProps> = props => {
           content={`${config.siteUrl}${props.data.header.childImageSharp.fluid.src}`}
         />
         {config.facebook && <meta property="article:publisher" content={config.facebook} />}
+<<<<<<< HEAD
         {config.googleSiteVerification && (
           <meta name="google-site-verification" content={config.googleSiteVerification} />
         )}
+=======
+        {config.googleSiteVerification && <meta name="google-site-verification" content={config.googleSiteVerification} />}
+>>>>>>> c9a5e6caad1deaea95cc725acaa64597be933f8d
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={config.title} />
         <meta name="twitter:description" content={config.description} />
@@ -150,7 +158,11 @@ const IndexPage: React.FC<IndexProps> = props => {
                   config.title
                 )}
               </SiteTitle>
+<<<<<<< HEAD
               {/* <SiteDescription>{config.description}</SiteDescription> */}
+=======
+              <SiteDescription>{config.description}</SiteDescription>
+>>>>>>> c9a5e6caad1deaea95cc725acaa64597be933f8d
             </SiteHeaderContent>
             <SiteNav isHome />
           </div>
@@ -171,10 +183,14 @@ const IndexPage: React.FC<IndexProps> = props => {
           </div>
         </main>
         {props.children}
+<<<<<<< HEAD
         <Pagination
           currentPage={props.pageContext.currentPage}
           numPages={props.pageContext.numPages}
         />
+=======
+        <Pagination currentPage={props.pageContext.currentPage} numPages={props.pageContext.numPages} />
+>>>>>>> c9a5e6caad1deaea95cc725acaa64597be933f8d
         <Footer />
       </Wrapper>
     </IndexLayout>
@@ -185,7 +201,11 @@ export default IndexPage;
 
 export const pageQuery = graphql`
   query blogPageQuery($skip: Int!, $limit: Int!) {
+<<<<<<< HEAD
     logo: file(relativePath: { eq: "img/past8-logo.png" }) {
+=======
+    logo: file(relativePath: { eq: "img/ghost-logo.png" }) {
+>>>>>>> c9a5e6caad1deaea95cc725acaa64597be933f8d
       childImageSharp {
         # Specify the image processing specifications right in the query.
         # Makes it trivial to update as your page's design changes.
@@ -194,7 +214,11 @@ export const pageQuery = graphql`
         }
       }
     }
+<<<<<<< HEAD
     header: file(relativePath: { eq: "img/blog-cover2.jpg" }) {
+=======
+    header: file(relativePath: { eq: "img/blog-cover.jpg" }) {
+>>>>>>> c9a5e6caad1deaea95cc725acaa64597be933f8d
       childImageSharp {
         # Specify the image processing specifications right in the query.
         # Makes it trivial to update as your page's design changes.
@@ -204,9 +228,15 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
+<<<<<<< HEAD
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { draft: { ne: true } } }
       limit: $limit
+=======
+      sort: { fields: [frontmatter___date], order: DESC },
+      filter: { frontmatter: { draft: { ne: true } } },
+      limit: $limit,
+>>>>>>> c9a5e6caad1deaea95cc725acaa64597be933f8d
       skip: $skip
     ) {
       edges {
