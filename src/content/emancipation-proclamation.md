@@ -1,5 +1,5 @@
 ---
-title: 'Great Gatsby'
+title: 'Great Play'
 author: Past8 Media
 tags: []
 image: img/marvin-meyer-794521-unsplash.jpg
