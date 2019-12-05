@@ -21,6 +21,10 @@ export interface WebsiteConfig {
    */
   twitter?: string;
   /**
+   * full url, no username
+   */
+  instagram?: string;
+  /**
    * hide or show all email subscribe boxes
    */
   showSubscribe: boolean;
@@ -57,11 +61,12 @@ const config: WebsiteConfig = {
   siteUrl: 'https://past8media.com',
   facebook: 'https://www.facebook.com/Past8-Media-1254206468072878/?ref=bookmarks',
   twitter: 'https://twitter.com/Past8Media',
+  instagram: 'https://instagram.com/Past8Media',
   showSubscribe: true,
   mailchimpAction:
-    'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
-  mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
-  mailchimpEmailFieldName: 'MERGE0',
+    'https://past8media.us5.list-manage.com/subscribe/post?u=1b9612ef1a8aedad7355e4d9c&amp;id=a2ab8f724f',
+  mailchimpName: 'b_1b9612ef1a8aedad7355e4d9c_a2ab8f724f',
+  mailchimpEmailFieldName: 'EMAIL',
   googleSiteVerification: 'GoogleCode',
   footer: 'is based on Gatsby Casper',
 };
