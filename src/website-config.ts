@@ -21,6 +21,10 @@ export interface WebsiteConfig {
    */
   twitter?: string;
   /**
+   * full url, no username
+   */
+  instagram?: string;
+  /**
    * hide or show all email subscribe boxes
    */
   showSubscribe: boolean;
@@ -66,3 +70,5 @@ const config: WebsiteConfig = {
   googleSiteVerification: 'GoogleCode',
   footer: 'is based on Gatsby Casper',
 };
+
+export default config;
