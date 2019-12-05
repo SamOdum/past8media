@@ -4,7 +4,7 @@ title: 'Become a social media manager'
 author: Youwai
 tags: ['Star']
 image: img/writing.jpg
-date: '2015-02-02T23:46:37.121Z'
+date: '2019-11-05T23:46:37.121Z'
 draft: false
 ---
 
