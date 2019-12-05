@@ -5,7 +5,7 @@ image: img/smartphone-2123520_192.jpg
 author: Youwai
 date: 2019-12-1T10:00:00.000Z
 tags:
-  - Source
+  - Star
 ---
 
 A lot of people have all sorts of wrong ideas about social media marketing. Some think that you only need to post "viral content" to get tons of traffic overnight.
