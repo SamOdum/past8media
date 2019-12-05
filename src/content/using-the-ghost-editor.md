@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Using The Ghost Editor'
+title: 'Making money online'
 author: Youwai
 tags: ['Getting Started']
 image: img/writing.jpg
@@ -8,9 +8,9 @@ date: '2015-02-02T23:46:37.121Z'
 draft: false
 ---
 
-Ghost uses a language called **Markdown** to format text.
+Past8 uses a language called **Markdown** to format text.
 
-When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Ghost what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.
+When you go to edit a post and see special characters and colours intertwined between the words, those are Markdown shortcuts which tell Past8 what to do with the words in your document. The biggest benefit of Markdown is that you can quickly apply formatting as you type, without needing to pause.
 
 At the bottom of the editor, you'll find a toolbar with basic formatting options to help you get started as easily as possible. You'll also notice that there's a **?** icon, which contains more advanced shortcuts.
 
@@ -35,9 +35,9 @@ Images in Markdown look just the same as links, except they're prefixed with an 
 
 ![Computer](img/computer.jpg)
 
-Most Markdown editors don't make you type this out, though. In Ghost you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown.
+Most Markdown editors don't make you type this out, though. In Past8 you can click on the image icon in the toolbar at the bottom of the editor, or you can just click and drag an image from your desktop directly into the editor. Both will upload the image for you and generate the appropriate Markdown.
 
-_**Important Note:** Ghost does not currently have automatic image resizing, so it's always a good idea to make sure your images aren't gigantic files **before** uploading them to Ghost._
+_**Important Note:** Past8 does not currently have automatic image resizing, so it's always a good idea to make sure your images aren't gigantic files **before** uploading them to Past8._
 
 ## Making lists
 
@@ -67,4 +67,4 @@ If you're writing a piece in parts and you just feel like you need to divide a c
 
 ---
 
-This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the [Advanced Markdown Guide](/advanced-markdown/) - or if you'd rather learn about how Ghost taxononomies work, we've got a overview of [how to use Ghost tags](/using-tags/).
+This should get you going with the vast majority of what you need to do in the editor, but if you're still curious about more advanced tips then check out the [Advanced Markdown Guide](/advanced-markdown/) - or if you'd rather learn about how Past8 taxononomies work, we've got a overview of [how to use Past8 tags](/using-tags/).

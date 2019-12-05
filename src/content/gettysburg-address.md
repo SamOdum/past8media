@@ -1,5 +1,5 @@
 ---
-title: 'Gettysburg Address'
+title: 'Why You should care'
 author: Past8 Media
 tags: []
 image: img/demo1.jpg
