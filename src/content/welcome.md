@@ -14,7 +14,7 @@ We know that first impressions are important, so we've populated our new site wi
 
 **A few things you should know upfront**:
 
-1. Past8 Media is designed for ambitious, professional publishers who want to actively build a business around their content. That's who it works best for.
+1. Past8 Media is designed for ambitious, everyday folks who're interested in the financial fortune social media makes possible.
 2. The entire platform can be modified and customised to suit your needs. It's very powerful, but does require some knowledge of code. Past8 is not necessarily a good platform for beginners or people who just want a simple personal blog.
 3. For the best experience we recommend downloading the Past8 Desktop App for your computer, which is the best way to access your Past8 site on a desktop device.
 
