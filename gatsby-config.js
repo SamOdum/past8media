@@ -53,7 +53,7 @@ module.exports = {
     'gatsby-plugin-emotion',
     'gatsby-plugin-typescript',
     'gatsby-transformer-sharp',
-    'gatsby-plugin-react-helmet',
+    // 'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
     'gatsby-plugin-feed',
     {
@@ -78,6 +78,24 @@ module.exports = {
         sampleRate: 100,
         // Determines how often site speed tracking beacons will be sent
         siteSpeedSampleRate: 10,
+      },
+    },
+    // Including in your Gatsby plugins will transform any paths in your frontmatter
+    {
+      resolve: 'gatsby-plugin-netlify-cms-paths',
+      options: {
+        // Path to your Netlify CMS config file
+        cmsConfig: '/static/admin/config.yml',
+      },
+    },
+
+    // Including in your Remark plugins will transform any paths in your markdown body
+    {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: [
+          'gatsby-plugin-netlify-cms-paths',
+        ],
       },
     },
     'gatsby-plugin-netlify-cms',
