@@ -7,7 +7,7 @@ tags:
 image: /img/matthew-bennett-78htqvjyms4-unsplash.jpg
 date: 2019-12-25T19:42:58.300Z
 ---
-![Work At Home & Digital Marketing For Seniors](images/logo-light.png)
+![](images/logo-light.png)
 
 If you're a senior citizen, you should definitely look into this!
 
