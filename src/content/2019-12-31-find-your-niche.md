@@ -11,11 +11,9 @@ tags:
 image: /img/find-your-niche.jpg
 date: 2019-12-31T16:31:07.201Z
 ---
-<!--StartFragment-->
+
 
 ![](images/header.png)
-
-
 
 # "Discover the simple steps that you need to take to find your online business niche "
 
@@ -28,8 +26,6 @@ Owning a business has many advantages from being able to set your own hours to h
 Unfortunately, too many new business owners fail within their first year.
 
 While it isn't for lack of effort, those looking to start a new online business fail to complete the crucial first step; they fail to research to find a viable and profitable niche.
-
-
 
 # Why You Need To Niche Down
 
@@ -44,8 +40,6 @@ If you can find a viable and profitable niche to focus your time, money and effo
 * **You will be seen as an expert in the field**
 * It can increase your profits
 
-
-
 If you know that you need to find a niche but don’t have the first clue about how to get started, you’re not alone.
 
 Luckily, I’ve created a simple step-by-step guide for new online business owners to find their niche.
@@ -58,13 +52,9 @@ Introducing...
 
 The Step-By-Step Guide To Finding Your Niche So You Can Stand Out And Create Success Faster
 
-
-
 Here's exactly what you'll get inside the course:
 
 # Ebook
-
-
 
 Here’s what you’ll discover in this guide:
 
@@ -90,19 +80,17 @@ Here’s what you’ll discover in this guide:
 
 # SPECIAL BONUSES FOR TAKING ACTION!
 
-# FAST-ACTION BONUS #1:\
+# FAST-ACTION BONUS #1:
+
 Point-By-Point Checklist
-
-
 
 View or print this handy checklist so that you can check off each point.
 
 It is like a summary of the entire guide but in actionable, bite-sized points so that you can successfully get through the course.
 
-# FAST-ACTION BONUS #2:\
+# FAST-ACTION BONUS #2:
+
 Resource Cheat Sheet
-
-
 
 You'll also get access to a rolodex of top sites, blogs, forums, tools, apps and services to get you even further.
 
@@ -111,12 +99,11 @@ Inside you'll find:
 * Top blogs and forums
 * Top tools
 * Top tips and how to's
-* + more!
+* more!
 
-# FAST-ACTION BONUS #3:\
+# FAST-ACTION BONUS #3:
+
 Mindmap
-
-
 
 A quick glance over this mindmap and you'll get an instant refresher of all the major points and action steps from the main guide.
 
@@ -134,7 +121,7 @@ I'm delighted to have the chance to share this powerful guide with you.
 
 Again, you will receive the comprehensive and valuable insights for only N5,000.00.
 
-# Contact 08142398197 to Get Instant Access Right Now!
+# Contact 08087528525 to Get Instant Access Right Now!
 
 Yes! I want instant access to **Find Your Niche** which includes the following:
 
@@ -142,8 +129,6 @@ Yes! I want instant access to **Find Your Niche** which includes the following:
 * FAST-ACTION BONUS #1: Checklist
 * FAST-ACTION BONUS #2: Resource Cheat Sheet
 * FAST-ACTION BONUS #3: Mindmap
-
-
 
 To Your Success,\
 Youwai
