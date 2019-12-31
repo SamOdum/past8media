@@ -1,19 +1,21 @@
 ---
-title: WORK AT HOME & DIGITAL MARKETING GUIDE FOR SENIORS
+title: Work at home &  digital marketing guide for seniors
 author: Youwai
 tags:
-  - ''
+  - star
+  - geting started
+image: /img/matthew-bennett-78htqvjyms4-unsplash.jpg
 date: 2019-12-25T19:42:58.300Z
 ---
 ![Work At Home & Digital Marketing For Seniors](images/logo-light.png)
 
-If You're A Senior Citizen, You Should Definitely Look Into This!
+If you're a senior citizen, you should definitely look into this!
 
-# It’s About Time For You To Start
+# It’s about time for you to start
 
-# Working From Home Using
+# working from home using
 
-# The Internet!
+# the internet!
 
 * Wouldn't you want to work on something that engages your sense of curiosity, adventure and possibility?
 * Wouldn't it be awesome to work on something that produces money while at the same time, pushes you to be as creative and as imaginative as before?
