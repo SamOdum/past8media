@@ -166,13 +166,13 @@ There are a lot of people that claim to offer a solution on how to start working
 
 I can keep telling you just how great my guide is, but you really need to go through it and see for yourself what it’s all about to know if it’s for you…
 
-Contact 08142398197 for instant access
+Contact **08087528525** for instant access
 
 Thank you so much for taking the time to take a look at this extremely limited offer that has the potential to help you start working from now and generate a steady online income!
 
 I’ll see you on the inside!
 
-**\[YOUWAI]**
+**YOUWAI**
 
 **PS**– I’ve compiled some of the most frequently asked questions about the guide that will show you how to plan for success!
 
