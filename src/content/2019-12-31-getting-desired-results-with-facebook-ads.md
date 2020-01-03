@@ -90,7 +90,7 @@ Contact **08087528525** Get this product now for only **N20,000**
 Warm Regards,\
 **Youwai**
 
-P.S. Don't worry about waiting, you can download this video training course immediately after you pay. Start watching how to implement the system within minutes.
+**P.S.** Don't worry about waiting, you can download this video training course immediately after you pay. Start watching how to implement the system within minutes.
 
 \
-P.P.S. If you want to learn how to setup your Facebook Ads the right way, and you don’t know where to start, then this is the training course for you.
+**P.P.S.** If you want to learn how to setup your Facebook Ads the right way, and you don’t know where to start, then this is the training course for you.
